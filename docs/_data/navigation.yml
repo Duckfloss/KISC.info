@@ -1,0 +1,6 @@
+# main links
+main:
+  - title: "About Us"
+    url: /about
+    blank: false
+    description: "About Us"
