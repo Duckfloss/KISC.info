@@ -1,6 +1,18 @@
 # main links
 main:
-  - title: "About Us"
-    url: /about
+  - title: "About"
+    url: '#about'
     blank: false
-    description: "About Us"
+    description: "About"
+  - title: "Structure"
+    url: "#structure"
+    blank: false
+    description: "Structure"
+  - title: "Join Us"
+    url: '#join'
+    blank: false
+    description: "Join Us"
+  - title: "Donate"
+    url: '#donate'
+    blank: false
+    description: "Donate"
