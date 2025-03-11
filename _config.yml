@@ -20,6 +20,8 @@
 
 oneflow-skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+repository               : Duckfloss/KISC.info
+
 locale                   : "en-US"
 title                    : "Kalamazoo Immigrant Solidarity Coalition"
 title_separator          : "-"
@@ -40,7 +42,7 @@ background-image-mobile  : # '/assets/images/header.webp' # If you want a differ
 background-image-overlay : rgba(255, 255, 255, 0.5) # Set overlay for the background image
 
 # Build settings
-#theme: oneflow-jekyll
+theme: oneflow-jekyll
 #plugins:
 #  - jekyll-feed
 
@@ -165,14 +167,14 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-include-cache
 
 
