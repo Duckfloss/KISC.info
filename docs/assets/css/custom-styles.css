@@ -1,0 +1,11 @@
+/* Custom stylesheet, add your own styles here */
+
+.page__content {
+}
+
+.site-section {
+  text-align: left;
+}
+div#main section {
+  max-width: 1080px;
+}
