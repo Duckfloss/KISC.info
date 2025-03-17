@@ -9,3 +9,17 @@
 div#main section {
   max-width: 1080px;
 }
+
+
+.page__footer-follow .site-logo img {
+  max-height: 8rem;
+}
+
+@media ( max-width: 912px ) {
+  .page__footer-follow .site-logo img {
+    max-height: 18rem;
+  }
+  .page__footer-copyright {
+    font-size: .9rem;
+  }
+}
