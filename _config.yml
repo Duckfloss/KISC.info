@@ -26,8 +26,8 @@ locale                   : "en-US"
 title                    : "Kalamazoo Immigrant Solidarity Coalition"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
-url                      : "https://duckfloss.github.io" # the base hostname & protocol for your site
-baseurl                  : /KISC.info # the subpath of your site, e.g. "/blog"
+url                      : "https://kisc.info" # the base hostname & protocol for your site
+baseurl                  : / # the subpath of your site, e.g. "/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.webp" # Site logo displayed in the masthead
 logo_full                : "/assets/images/logo-full.webp" # Site logo displayed in the footer
