@@ -4,10 +4,10 @@ main:
     url: '#about'
     blank: false
     description: "About"
-  - title: "Structure"
-    url: "#structure"
+  - title: "Activities"
+    url: "#activities"
     blank: false
-    description: "Structure"
+    description: "Activities"
   - title: "Join Us"
     url: '#join'
     blank: false
