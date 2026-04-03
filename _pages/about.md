@@ -3,7 +3,7 @@ title: "About Kalamazoo Immigrant Solidarity Coalition"
 
 layout: page
 
-permalink: /about/
+permalink: /about
 
 ---
 
