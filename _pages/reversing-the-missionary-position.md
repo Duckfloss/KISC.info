@@ -3,6 +3,8 @@ title: "Reversing the Missionary Position film and book signing - Kalamazoo Immi
 
 layout: page
 
+permalink: /reversing-the-missionary-position
+
 ---
 
 # Reversing the Missionary Position film and book signing
